@@ -1,4 +1,4 @@
-.
+
 % denoising of video signal
 clc; clear all; close all;
 
